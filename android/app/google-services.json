@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1094149306983",
+    "project_id": "pfee-76597",
+    "storage_bucket": "pfee-76597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094149306983:android:14ff73ab6c75743fc872c2",
+        "android_client_info": {
+          "package_name": "com.example.monlivreur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094149306983-25msrmhbnaqv2ckrduoau2slq31joqc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monlivreur",
+            "certificate_hash": "7258cc9c507d596c4d0dea3c92b9ed777cc100a6"
+          }
+        },
+        {
+          "client_id": "1094149306983-v58mmfb0t9sv6ff42jdd0dc5q9vdfr14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0jx6THXBaIdRs4WLLW0JHZyt8cUkH_dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094149306983-v58mmfb0t9sv6ff42jdd0dc5q9vdfr14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1094149306983-ot3urnibgdq4a4foqvndvj9qos6i4ei1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.monlivreur"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094149306983:android:91a02d80f0886835c872c2",
+        "android_client_info": {
+          "package_name": "com.example.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094149306983-88lipmgrclqk7lu947q8sgtidi8bqsi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uber",
+            "certificate_hash": "5b8e0b2b5e9f83d2c3f12cbcb8d3beabe35659a9"
+          }
+        },
+        {
+          "client_id": "1094149306983-v58mmfb0t9sv6ff42jdd0dc5q9vdfr14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0jx6THXBaIdRs4WLLW0JHZyt8cUkH_dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094149306983-v58mmfb0t9sv6ff42jdd0dc5q9vdfr14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1094149306983-ot3urnibgdq4a4foqvndvj9qos6i4ei1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.monlivreur"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
